@@ -33,7 +33,7 @@ a:link {
   } 
   a:active { 
     text-decoration: none;
-    color: greenyellow; 
+    color: lime; 
   }
   
   main {
@@ -43,4 +43,25 @@ a:link {
   nav ul {
     display: flex;
     justify-content: space-around;
+  }
+
+  /* body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+   } */
+
+   footer {
+    /* color: #EADDC4; */
+    text-align: left;
+    font-size: .8em;
+  }
+
+  main {
+    background-color: white;
+    line-height: 2em;
+    color: #555;
+    padding: 1rem;
+    margin: 2%;
+    border: double 5px antiquewhite;
+    border-radius:1.5rem;
   }
