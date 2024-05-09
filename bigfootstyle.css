@@ -62,3 +62,7 @@ a:link {
     border: double 5px antiquewhite;
     border-radius:1.5rem;
   }
+
+.style {
+    color: darkorange;
+}
